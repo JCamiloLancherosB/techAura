@@ -1,0 +1,10 @@
+# Ignora archivos de compilación
+*.o
+*.out
+
+# Ignora archivos de configuración sensibles
+config.ini
+.env
+
+# Ignora el directorio de dependencias
+node_modules/
